@@ -6,14 +6,14 @@ A printable GURPS character sheet in A4 format, laid out in Scribus. Designed to
 
 **Standard Sheet**
 
-|                                                |                                                |                                                |                                                |
+| Page 1                                         | Page 2                                         | Page 3                                         | Page 4                                         |
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 | ![Page 1](screenshots/a4-standard-page001.png) | ![Page 2](screenshots/a4-standard-page002.png) | ![Page 3](screenshots/a4-standard-page003.png) | ![Page 4](screenshots/a4-standard-page004.png) |
 
 **DFRPG Sheet**
 
-|                                             |                                             |                                             |                                             |
-| :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
+| Page 1                                         | Page 2                                         | Page 3                                         | Page 4                                         |
+| :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 | ![Page 1](screenshots/a4-dfrpg-page001.png) | ![Page 2](screenshots/a4-dfrpg-page002.png) | ![Page 3](screenshots/a4-dfrpg-page003.png) | ![Page 4](screenshots/a4-dfrpg-page004.png) |
 
 ## Files
