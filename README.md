@@ -1,4 +1,4 @@
-# gurps-paper-sheet
+# GURPS Printable Character Sheets
 
 A printable GURPS character sheet in A4 format, laid out in Scribus. Designed to fit all the core character information onto paper in a clean, readable way.
 
