@@ -33,7 +33,7 @@ The fonts used in this project are:
 
 ## Printing
 
-Open the `.sla` file in Scribus and export to PDF (File → Export → Save as PDF). A4 paper size is assumed; if printing on US Letter, enable "Shrink page contents to paper size" in your PDF viewer.
+Open the `.sla` file in Scribus and export to PDF (File → Export → Save as PDF).
 
 ## Contributing
 
