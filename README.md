@@ -27,10 +27,9 @@ A printable GURPS character sheet in A4 format, laid out in Scribus. Designed to
 
 ## Fonts
 
-The fonts used in this project are entirely free and open-source, available from [Google Fonts](https://fonts.google.com/). They include:
+The fonts used in this project are:
 
-- Fira Sans
-- Spectral
+- New Aster LT (OTF)
 
 ## Printing
 
