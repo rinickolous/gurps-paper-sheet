@@ -31,7 +31,11 @@ The fonts used in this project are:
 
 - New Aster LT (OTF)
 
-## Printing
+## Downloads
+
+The latest PDF downloads are available [here](https://github.com/rinickolous/gurps-paper-sheet/releases/latest).
+
+## Exporting to PDF Locally
 
 Open the `.sla` file in Scribus and export to PDF (File → Export → Save as PDF).
 
